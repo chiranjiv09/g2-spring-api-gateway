@@ -40,7 +40,7 @@ stage('DockerBuild') {
 
 steps {
 
-sh 'docker build -t services/g2-api-gateway-service:latest .'
+sh 'docker build -t kushck09/g2-api-gateway-service:latest .'
 
 }
 
