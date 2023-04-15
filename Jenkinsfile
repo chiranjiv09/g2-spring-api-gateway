@@ -8,7 +8,7 @@ stage('Checkout'){
 
 steps{
 
-git branch: "main", url: 'https://github.com/chiranjiv09/g2-api-gateway-service.git'
+git branch: "main", url: 'https://github.com/chiranjiv09/g2-spring-api-gateway.git'
 
 }
 
