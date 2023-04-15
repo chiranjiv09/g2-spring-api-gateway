@@ -79,4 +79,3 @@ sh 'docker logout'
 }
 
 }
-}
